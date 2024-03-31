@@ -14,4 +14,4 @@
 - [Serial communication using Python (PySerial) and Arduino/AVR/PIC Micro on Linux](https://www.xanthium.in/linux-serial-port-programming-using-python-pyserial-and-arduino-avr-pic-microcontroller)
 - [Running Periodic background tasks in tkinter (ttkbootstrap) using .after() method](https://www.xanthium.in/running-periodic-background-tasks-in-python-tkinter-ttkbootstrap-using-after-method)
 - [Creating and Sharing data between Python threads for the Absolute Beginner](https://www.xanthium.in/creating-threads-sharing-synchronizing-data-using-queue-lock-semaphore-python)
-- 
+ 
