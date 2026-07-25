@@ -1,6 +1,6 @@
 # GUI based Python tkinter(ttkbootstrap) serial port communication Program with Arduino
 
- - ![_3_Images/python-tkinter-serial-port-monitor.jpg]()
+ - ![Simple Python\tkinter based Serial communication Program with GUI](_3_Images/python-tkinter-serial-port-monitor.jpg)
 
  - A cross-platform Python GUI application for communicating with Arduino, microcontrollers(ATmega328P,RP2040,RP2350), and other UART-based embedded systems over a serial port using PySerial and tkinter (ttkbootstrap).
 
