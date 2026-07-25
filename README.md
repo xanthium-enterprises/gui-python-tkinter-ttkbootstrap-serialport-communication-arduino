@@ -9,7 +9,6 @@
 - It is designed as a **beginner-friendly** project for learning both Python GUI programming and serial communication.
 
 
-
 ## Features
 - Modern GUI built using Tkinter and ttkbootstrap
 - Cross-platform support (Windows, Linux, and macOS)
@@ -20,9 +19,17 @@
 
  ## Website/Tutorial
 
- -A detailed explanation of the project, including the GUI design, PySerial programming, and Arduino communication, is available in the accompanying tutorial (below)
+ - A detailed explanation of the project, including the GUI design, PySerial programming, and Arduino communication, is available in the accompanying tutorial (below)
 
   - [How to create GUI serial port communication program with arduino and PC using Python and tkinter(ttkbootstrap)](https://www.xanthium.in/simple-gui-based-python-tkinter-ttkbootstrap-serialport-communication-arduino-uart-microcontroller)
+
+## Hardware Connections 
+
+- ![communicate with Arduino from PC using Python and Tkinter](_3_Images/arduino-pc-serial-com-py-tkinter.jpg)
+
+## Software Architecture
+
+- ![Tkinter com port serial communication with Arduino ,Raspberry Pi,Raspberry Pi](_3_Images/python-tkinter-ttkbootstrap-serial-communication-program-arch.jpg)
 
 
 ## References
