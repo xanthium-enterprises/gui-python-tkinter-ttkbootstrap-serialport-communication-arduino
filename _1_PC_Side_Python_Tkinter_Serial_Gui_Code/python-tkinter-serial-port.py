@@ -7,8 +7,6 @@
 
 import ttkbootstrap as ttkb
 from tkinter import *
-from ttkbootstrap.scrolled import ScrolledText # import the scrolled text box 
-                                               # ttkbootstrap.scrolled.ScrolledText
 from ttkbootstrap.dialogs import Messagebox
 import tkinter as tk 
 
@@ -145,7 +143,7 @@ received_data_label.place(x=30,y=205)
 log_data_label = ttkb.Label(text = 'Logging')
 log_data_label.place(x=25,y=245)
 
-log_data = ScrolledText(root,height = 10,width = 50,wrap = WORD)
+log_data = ttkb.ScrolledText(root,height = 10,width = 50,wrap = WORD)
 log_data.place(x=25,y=272)
 log_data.insert(tk.END,f'OS    :  {platform.platform()}\n')# add text
 log_data.insert(tk.END,f'Time :  {datetime.now()}\n')
