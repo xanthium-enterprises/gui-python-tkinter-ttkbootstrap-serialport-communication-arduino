@@ -8,6 +8,12 @@
 
 - It is designed as a **beginner-friendly** project for learning both Python GUI programming and serial communication.
 
+## Youtube Video Tutorial 
+
+- [![Simple Python\tkinter based Serial communication Program with GUI](_3_Images/youtube-tutorial.png)](https://www.youtube.com/watch?v=iKMPLOqGa0U)
+
+- [Simple Python\tkinter based Serial communication Program with GUI](https://www.youtube.com/watch?v=iKMPLOqGa0U)
+
 
 ## Features
 - Modern GUI built using Tkinter and ttkbootstrap
